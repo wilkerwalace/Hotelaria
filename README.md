@@ -19,16 +19,19 @@ Este projeto foi desenvolvido como parte de um desafio de ***10 minutos***, com 
 ## Como Executar
 
 1. Clone este repositório:
-    ```
+
+    ```pwsh
     git clone https://github.com/seu-usuario/projeto-hotelaria.git
     ```
 
 2. Navegue até o diretório do projeto:
-    ```
+
+    ```pwsh
     cd projeto-hotelaria
     ```
 
 3. Execute o projeto:
-    ```
-    [dotnet run]
+
+    ```pwsh
+    dotnet run
     ```
