@@ -21,7 +21,7 @@ Este projeto foi desenvolvido como parte de um desafio de ***10 minutos***, com 
 1. Clone este repositório:
 
     ```pwsh
-    git clone https://github.com/seu-usuario/projeto-hotelaria.git
+    git clone https://github.com/wilkerwalace/projeto-hotelaria.git
     ```
 
 2. Navegue até o diretório do projeto:
